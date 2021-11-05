@@ -7,4 +7,4 @@ To Do:
 - [ ] add Scan local folders getting the name of book.
 - [ ] auto parsing the name into db
 - [ ] customize the rule of name
-- [ ]
+- [ ] Search similar name and same name
