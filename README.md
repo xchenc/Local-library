@@ -1,5 +1,5 @@
 # Local-library
-Python base application manager local books test
+Python base application manager local books testgfrg
 To Do:
 - [x] OOP
 - [x] backend with basic function
@@ -8,4 +8,3 @@ To Do:
 - [ ] auto parsing the name into db
 - [ ] customize the rule of name
 - [ ] Search similar name and same name
-eesdsf
